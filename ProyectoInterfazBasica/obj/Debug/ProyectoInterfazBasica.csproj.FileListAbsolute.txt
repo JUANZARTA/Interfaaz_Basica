@@ -1,0 +1,11 @@
+C:\Users\Kmilo\source\repos\ProyectoInterfazBasica\obj\Debug\ProyectoInterfazBasica.csproj.AssemblyReference.cache
+C:\Users\Kmilo\source\repos\ProyectoInterfazBasica\obj\Debug\ProyectoInterfazBasica.csproj.SuggestedBindingRedirects.cache
+C:\Users\Kmilo\source\repos\ProyectoInterfazBasica\obj\Debug\ProyectoInterfazBasica.Form1.resources
+C:\Users\Kmilo\source\repos\ProyectoInterfazBasica\obj\Debug\ProyectoInterfazBasica.Properties.Resources.resources
+C:\Users\Kmilo\source\repos\ProyectoInterfazBasica\obj\Debug\ProyectoInterfazBasica.csproj.GenerateResource.cache
+C:\Users\Kmilo\source\repos\ProyectoInterfazBasica\obj\Debug\ProyectoInterfazBasica.csproj.CoreCompileInputs.cache
+C:\Users\Kmilo\source\repos\ProyectoInterfazBasica\bin\Debug\ProyectoInterfazBasica.exe.config
+C:\Users\Kmilo\source\repos\ProyectoInterfazBasica\bin\Debug\ProyectoInterfazBasica.exe
+C:\Users\Kmilo\source\repos\ProyectoInterfazBasica\bin\Debug\ProyectoInterfazBasica.pdb
+C:\Users\Kmilo\source\repos\ProyectoInterfazBasica\obj\Debug\ProyectoInterfazBasica.exe
+C:\Users\Kmilo\source\repos\ProyectoInterfazBasica\obj\Debug\ProyectoInterfazBasica.pdb
